@@ -1,0 +1,30 @@
+{
+  "name": "dejoy-server-for-terminal-data-collection",
+  "version": "1.0.0",
+  "description": "☂️迪球公司負彙整吐終端機(各種機台)資料狀態並送至系統的Server\r ![image](./img/現行架構.PNG)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhenyu184/Dejoy-Server-For-Terminal-Data-Collection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhenyu184/Dejoy-Server-For-Terminal-Data-Collection/issues"
+  },
+  "homepage": "https://github.com/Zhenyu184/Dejoy-Server-For-Terminal-Data-Collection#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "get-json": "^1.0.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^12.0.0",
+    "raw-body": "^2.5.1",
+    "request": "^2.88.2",
+    "sync-request": "^6.1.0"
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "code": "Success",
+    "message": "ok",
+    "results": {
+        "places": [
+            {
+                "_id": "10401",
+                "title": "中山店",
+                "description": "",
+                "address": "104-91台灣台北市中山區南京西路16號",
+                "lineAtUrl": "",
+                "servicePhone": "",
+                "geolocation": {
+                    "type": "Point",
+                    "coordinates": [
+                        121.520391,
+                        25.052685
+                    ]
+                },
+                "type": 1
+            },
+            {
+                "_id": "11001",
+                "title": "威秀店",
+                "description": "",
+                "address": "110-51台灣台北市信義區松壽路12號",
+                "lineAtUrl": "",
+                "servicePhone": "",
+                "geolocation": {
+                    "type": "Point",
+                    "coordinates": [
+                        121.5638872,
+                        25.0353934
+                    ]
+                },
+                "type": 1
+            },
+            {
+                "_id": "25101",
+                "title": "淡水店(模擬)",
+                "description": "",
+                "address": "新北市淡水區英專路151號",
+                "lineAtUrl": "",
+                "servicePhone": "",
+                "geolocation": {
+                    "type": "Point",
+                    "coordinates": [
+
+                    ]
+                },
+                "type": 1
+            }
+        ]
+    }
+}
+
+

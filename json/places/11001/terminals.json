@@ -1,0 +1,74 @@
+{
+    "code": "Success",
+    "message": "ok",
+    "results": {
+        "place": {
+            "_id": "11001",
+            "title": "威秀店",
+            "description": "",
+            "address": "110-01台灣台北市信義區松壽路12號",
+            "lineAtUrl": "",
+            "servicePhone": "",
+            "geolocation": {},
+            "type": 1,
+            "devices": [
+                {
+                    "_id": "110010300010101012",
+                    "hwid": "9818D66D",
+                    "description": "(模擬)妖怪大進擊-左",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "110010300010101012",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300010101029",
+                    "hwid": "011187D7",
+                    "description": "(模擬)妖怪大進擊-右",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "110010300010101029",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300020101019",
+                    "hwid": "7616B741",
+                    "description": "(模擬)氣球ABC-左",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "110010300020101019",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300020101026",
+                    "hwid": "E87222E2",
+                    "description": "(模擬)氣球ABC-右",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "110010300020101026",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300030101016",
+                    "hwid": "9F751274",
+                    "description": "(模擬)消防車",
+                    "model": "alfabox_v2_wifi",
+                    "vendorHwid": "110010300030101016",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300040101013",
+                    "hwid": "067C43CE",
+                    "description": "(模擬)貝貝車",
+                    "model": "alfabox_v2_wifi",
+                    "vendorHwid": "110010300040101013",
+                    "connection": true
+                },
+                {
+                    "_id": "110010300050101010",
+                    "hwid": "717B7358",
+                    "description": "(模擬)兔兔大躍進",
+                    "model": "alfabox_v2_wifi",
+                    "vendorHwid": "110010300050101010",
+                    "connection": true
+                }
+            ]
+        }
+    }
+}

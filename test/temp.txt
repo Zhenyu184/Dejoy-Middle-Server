@@ -1,0 +1,43 @@
+  /*request.get("http://" + "163.13.133.185:3001" + url, { json: true }, (error, res, body) => { //發出要求
+    if (error) {
+      console.log(`error req = ${url}`);  
+      return console.log(error);
+    } else {
+        console.log(`<發出要求 req = ${url} (執行「回應所有終端機狀態」)`);
+        //接收到的東西放到body
+        response.setHeader("Content-Type", "application/json");
+        var returnJson = {
+          "code": "Success",
+          "message": "ok",
+          "results": {
+            "place": {
+              "_id": "61e7bd175b16f15f943283f0",
+              "title": "中山捷運站",
+              "description": "",
+              "address": "10491台灣台北市中山區南京西路16號",
+              "lineAtUrl": "",
+              "servicePhone": "",
+              "geolocation": {
+                "type": "Point",
+                "coordinates": [
+                  121.520391,
+                  25.052685
+                ]
+              },
+              "type": 1,
+              "devices": [
+                {
+                  "_id": body.results._id,
+                  "hwid": body.results.hwid,
+                  "description": body.results.description,
+                  "model": body.results.model,
+                  "vendorHwid": body.results.vendorHwid,
+                  "connection": true
+                }
+              ]
+            }
+          }
+        };
+        response.end(JSON.stringify(returnJson));
+    }
+  });*/

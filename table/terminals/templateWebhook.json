@@ -1,0 +1,12 @@
+{
+    "events": [{
+        "type": "",
+        "timestamp": 0,
+        "source": {
+            "vendorHwid": "",
+            "count": 0,
+            "inputPortId": 0,
+            "offline": false
+        }
+    }]
+}

@@ -1,0 +1,23 @@
+{
+    "code": "Success",
+    "message": "ok",
+    "results": {
+        "place": {
+            "_id": "無描述",
+            "title": "無描述",
+            "description": "無描述",
+            "address": "臺北市大安區市民大道4段100號3樓",
+            "lineAtUrl": "無描述",
+            "servicePhone": "02-27113676",
+            "geolocation": {
+                "type": "Point",
+                "coordinates": [
+                    
+                ]
+            },
+            "type": 1,
+            "devices": [
+            ]
+        }
+    }
+}

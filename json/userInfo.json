@@ -1,0 +1,17 @@
+{
+    "userInfo": [
+        {
+            "id": 1,
+            "points": 0,
+            "erc": 0,
+            "cards": "none"
+        },
+        {
+            "id": 2,
+            "points": 0,
+            "erc": 0,
+            "cards": "none"
+        }
+    ],
+		"total": 2
+}

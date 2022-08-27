@@ -1,0 +1,9 @@
+const tools = require('../id2Url.js');
+
+function main() {
+    console.log(tools.id2Url(2,3));
+}
+
+if (require.main === module) { 
+    main();
+}

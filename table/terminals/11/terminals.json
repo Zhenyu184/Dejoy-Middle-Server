@@ -1,0 +1,79 @@
+{
+  "devices": [
+    {
+      "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+      "_id": "dj113001",
+      "description": "東海龍珠左",
+      "local": "淡水店",
+      "type": "遊戲機",
+      "model": [
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "11",
+          "description": "投幣口",
+          "type": "投幣模組",
+          "connection": false,
+          "updateTime": 1661567136219
+        },
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "21",
+          "description": "出票口",
+          "type": "出票模組",
+          "connection": false,
+          "updateTime": 1661567136485
+        }
+      ]
+    },
+    {
+      "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+      "_id": "dj113002",
+      "description": "東海龍珠中",
+      "local": "淡水店",
+      "type": "遊戲機",
+      "model": [
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "11",
+          "description": "投幣口",
+          "type": "投幣模組",
+          "connection": false,
+          "updateTime": 1661567136716
+        },
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "21",
+          "description": "出票口",
+          "type": "出票模組",
+          "connection": false,
+          "updateTime": 1661567136951
+        }
+      ]
+    },
+    {
+      "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+      "_id": "dj113003",
+      "description": "東海龍珠右",
+      "local": "淡水店",
+      "type": "遊戲機",
+      "model": [
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "11",
+          "description": "投幣口",
+          "type": "投幣模組",
+          "connection": false,
+          "updateTime": 1661567137239
+        },
+        {
+          "url": "https://4b12-163-13-133-72.jp.ngrok.io",
+          "_id": "21",
+          "description": "出票口",
+          "type": "出票模組",
+          "connection": false,
+          "updateTime": 1661567137480
+        }
+      ]
+    }
+  ]
+}

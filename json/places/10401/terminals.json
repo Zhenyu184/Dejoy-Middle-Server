@@ -1,0 +1,80 @@
+{
+    "code": "Success",
+    "message": "ok",
+    "results": {
+        "place": {
+            "_id": "10401",
+            "title": "中山店",
+            "description": "",
+            "address": "104-91台灣台北市中山區南京西路16號",
+            "lineAtUrl": "",
+            "servicePhone": "",
+            "geolocation": {
+                "type": "Point",
+                "coordinates": [
+                    121.520391,
+                    25.052685
+                ]
+            },
+            "type": 1,
+            "devices": [
+                {
+                    "_id": "104010300010101011",
+                    "hwid": "A4F53CDD",
+                    "description": "(模擬)水果炸翻天-左",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300010101011",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300010101028",
+                    "hwid": "C432B538",
+                    "description": "(模擬)水果炸翻天-中",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300010101028",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300010101035",
+                    "hwid": "B33585AE",
+                    "description": "(模擬)水果炸翻天-右",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300010101035",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300020101018",
+                    "hwid": "B33585AE",
+                    "description": "(模擬)彈珠檯1號",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300020101018",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300020201015",
+                    "hwid": "B33585AE",
+                    "description": "(模擬)彈珠檯2號",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300020201015",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300030101015",
+                    "hwid": "B33585AE",
+                    "description": "(模擬)海盜寶藏",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300030101015",
+                    "connection": true
+                },
+                {
+                    "_id": "104010300040101012",
+                    "hwid": "B33585AE",
+                    "description": "(模擬)太鼓達人",
+                    "model": "Raspberry Pi 3",
+                    "vendorHwid": "104010300040101012",
+                    "connection": true
+                }
+            ]
+        }
+    }
+}

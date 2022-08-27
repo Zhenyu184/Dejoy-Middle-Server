@@ -1,0 +1,13 @@
+{
+    "return": 0,
+    "message": "Success",
+    "results": {
+        "_id": 104911300050011011,
+        "hwid": 100005,
+        "vendorHwid": 600035,
+        "description": "太鼓達人",
+        "locate": "中山店",
+        "model": "alfabox_v2_wifi"
+    } 
+}
+

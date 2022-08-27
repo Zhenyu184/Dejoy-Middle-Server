@@ -1,0 +1,13 @@
+{
+    "return": 0,
+    "message": "Success",
+    "results": {
+        "_id": 104911300030011017,
+        "hwid": 100003,
+        "vendorHwid": 600033,
+        "description": "彈珠檯1號",
+        "locate": "中山店",
+        "model": "alfabox_v2_wifi"
+    } 
+}
+

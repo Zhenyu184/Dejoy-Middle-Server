@@ -1,0 +1,13 @@
+{
+    "return": 0,
+    "message": "Success",
+    "results": {
+        "_id": 110511100010011014,
+        "hwid": 100004,
+        "vendorHwid": 600034,
+        "description": "禮品機",
+        "locate": "威秀店",
+        "model": "alfabox_v2_wifi"
+    } 
+}
+
